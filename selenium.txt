@@ -1,0 +1,1 @@
+Selenium is the solution to automate the any web based application 
